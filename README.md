@@ -1,4 +1,9 @@
-### Hi there 👋
+### About me 👋
+
+I am an aspiring Java student at the vocation education school in Stockholm that has an aim of becoming a fullstack developer that combines his previous academic and professional achievement with his passion for software development.
+
+- 🌱 I’m currently learning Java, mySQL, HTML and javascript.
+- 📫 How to reach me: khalizov@hotmail.com or dmitry.khalizov@iths.se
 
 <!--
 **DmitryKhalizov/DmitryKhalizov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
