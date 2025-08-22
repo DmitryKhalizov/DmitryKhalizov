@@ -1,8 +1,8 @@
 ### About me 👋
 
-I am an aspiring Java student at the vocation education school in Stockholm that has an aim of becoming a fullstack developer that combines his previous academic and professional achievement with his passion for software development.
+I have completed Software Development studies at the vocation education school in Stockholm where I learnt Java, SQL and JavaScript. I am working as a Business Analyst within an IT team in a swedish bank, alongside with developing my programming skills.
 
-- 🌱 I’m currently learning Java, mySQL, HTML and javascript.
+- 🌱 I’m currently using Java, mySQL, HTML and javascript.
 - 📫 How to reach me: khalizov@hotmail.com or dmitry.khalizov@iths.se
 
 <!--
